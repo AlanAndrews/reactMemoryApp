@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "George Washington",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/800px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Curious George",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Curious_George.png"
+    },
+    {
+      "id": 3,
+      "name": "George Foreman",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/George_Foreman_2009.jpg"
+    },
+    {
+      "id": 4,
+      "name": "George Harrison",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/George_Harrison_1974_edited.jpg"
+    },
+    {
+      "id": 5,
+      "name": "George Clinton",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/George_Clinton_in_Centreville.jpg"
+    },
+    {
+      "id": 6,
+      "name": "George of the Jungle",
+      "image": "https://imgix.bustle.com/uploads/image/2017/7/16/b0ff4ece-9660-43d2-bf06-df25c432039f-georgeofthejungley1997m-1536x614-dhe.jpg?w=970&h=582&fit=crop&crop=faces&auto=format&q=70"
+    },
+    {
+      "id": 7,
+      "name": "George Takei",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/George_Takei_Sulu_Star_Trek.JPG"
+    },
+    {
+      "id": 8,
+      "name": "George Strait",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/George_Strait_2014_1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Boy George",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Boy_George_At_Ronnie_Scotts.jpg"
+    },
+    {
+      "id": 10,
+      "name": "George Costanza",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/70/George_Costanza.jpg"
+    },
+    {
+      "id": 11,
+      "name": "George Lopez",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/George_Lopez_2010.jpg"
+    },
+    {
+      "id": 12,
+      "name": "George Washington Carver",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg"
+    }
+  ]
+  
